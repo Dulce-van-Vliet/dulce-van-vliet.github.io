@@ -1,0 +1,60 @@
+baseURL = 'https://dulcevanvliet.github.io/'
+languageCode = 'en-us'
+title = 'Dulce van Vliet'
+theme = 'PaperMod'
+
+[params]
+  description = "Academic research and publications"
+  author = "Your Name"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.homeInfoParams]
+    Title = "Hi"
+    Content = "Academic researcher focused on [History]"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:your.email@university.edu"
+
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=YOUR_ID"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "conferences"
+    name = "Conferences"
+    url = "/conferences/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "data-vis"
+    name = "Data & Vis"
+    url = "/data-vis/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

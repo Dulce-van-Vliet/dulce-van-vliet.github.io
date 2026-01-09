@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Data &amp; Visualizations | Dulce van Vliet</title>
+<meta name="keywords" content="">
+<meta name="description" content="Datasets, visualizations, and interactive demos">
+<meta name="author" content="Your Name">
+<link rel="canonical" href="http://localhost:1313/data-vis/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.f54bdcff620f48441235844a098093db6248d7d4668bf34cb66a47f749ae2363.css" integrity="sha256-9Uvc/2IPSEQSNYRKCYCT22JI19Rmi/NMtmpH90muI2M=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/data-vis/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Dulce van Vliet (Alt + H)">Dulce van Vliet</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/publications/" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/conferences/" title="Conferences">
+                    <span>Conferences</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/data-vis/" title="Data &amp; Vis">
+                    <span class="active">Data &amp; Vis</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Data &amp; Visualizations
+    </h1>
+    <div class="post-description">
+      Datasets, visualizations, and interactive demos
+    </div>
+    <div class="post-meta"><span title='2026-01-09 00:00:00 +0000 UTC'>January 9, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Your Name</span>
+
+</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#datasets" aria-label="Datasets">Datasets</a><ul>
+                        
+                <li>
+                    <a href="#dataset-name-1" aria-label="Dataset Name 1">Dataset Name 1</a></li>
+                <li>
+                    <a href="#dataset-name-2" aria-label="Dataset Name 2">Dataset Name 2</a></li></ul>
+                </li>
+                <li>
+                    <a href="#interactive-visualizations" aria-label="Interactive Visualizations">Interactive Visualizations</a><ul>
+                        
+                <li>
+                    <a href="#visualization-project-1" aria-label="Visualization Project 1">Visualization Project 1</a></li>
+                <li>
+                    <a href="#visualization-project-2" aria-label="Visualization Project 2">Visualization Project 2</a></li></ul>
+                </li>
+                <li>
+                    <a href="#tools--software" aria-label="Tools &amp; Software">Tools &amp; Software</a><ul>
+                        
+                <li>
+                    <a href="#tool-name" aria-label="Tool Name">Tool Name</a></li></ul>
+                </li>
+                <li>
+                    <a href="#gallery" aria-label="Gallery">Gallery</a></li>
+                <li>
+                    <a href="#notebooks" aria-label="Notebooks">Notebooks</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h2 id="datasets">Datasets<a hidden class="anchor" aria-hidden="true" href="#datasets">#</a></h2>
+<h3 id="dataset-name-1">Dataset Name 1<a hidden class="anchor" aria-hidden="true" href="#dataset-name-1">#</a></h3>
+<p><strong>Description:</strong> Brief description of what this dataset contains and why it&rsquo;s useful.<br>
+<strong>Size:</strong> X samples, Y features<br>
+<strong>Format:</strong> CSV, JSON, etc.<br>
+<strong>License:</strong> MIT/CC-BY-4.0/etc.<br>
+<a href="link-to-dataset">[Download]</a> <a href="link-to-docs">[Documentation]</a> <a href="link-to-paper">[Paper]</a></p>
+<p><strong>Citation:</strong></p>
+<pre tabindex="0"><code>Your Name et al. (2025). Dataset Name. DOI or URL.
+</code></pre><hr>
+<h3 id="dataset-name-2">Dataset Name 2<a hidden class="anchor" aria-hidden="true" href="#dataset-name-2">#</a></h3>
+<p><strong>Description:</strong> Another dataset description.<br>
+<strong>Size:</strong> Information about size<br>
+<strong>Format:</strong> Data format<br>
+<a href="link">[Download]</a> <a href="https://github.com/yourusername/dataset">[GitHub]</a></p>
+<hr>
+<h2 id="interactive-visualizations">Interactive Visualizations<a hidden class="anchor" aria-hidden="true" href="#interactive-visualizations">#</a></h2>
+<h3 id="visualization-project-1">Visualization Project 1<a hidden class="anchor" aria-hidden="true" href="#visualization-project-1">#</a></h3>
+<p><strong>Description:</strong> What this visualization shows and why it&rsquo;s interesting.<br>
+<a href="link-to-demo">[Live Demo]</a> <a href="https://github.com/yourusername/viz-project">[Code]</a></p>
+<p><img alt="Screenshot or preview" loading="lazy" src="image-preview.png"></p>
+<p><strong>Technologies:</strong> D3.js, React, etc.</p>
+<hr>
+<h3 id="visualization-project-2">Visualization Project 2<a hidden class="anchor" aria-hidden="true" href="#visualization-project-2">#</a></h3>
+<p><strong>Description:</strong> Another visualization project.<br>
+<a href="link">[Live Demo]</a> <a href="observable-link">[Observable Notebook]</a></p>
+<hr>
+<h2 id="tools--software">Tools &amp; Software<a hidden class="anchor" aria-hidden="true" href="#tools--software">#</a></h2>
+<h3 id="tool-name">Tool Name<a hidden class="anchor" aria-hidden="true" href="#tool-name">#</a></h3>
+<p><strong>Description:</strong> Brief description of what this tool does.<br>
+<strong>Status:</strong> Active development / Stable / Archived<br>
+<a href="https://github.com/yourusername/tool">[GitHub]</a> <a href="docs-link">[Documentation]</a> <a href="pypi-link">[PyPI]</a></p>
+<p><strong>Installation:</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>pip install your-tool-name
+</span></span></code></pre></div><p><strong>Features:</strong></p>
+<ul>
+<li>Feature 1</li>
+<li>Feature 2</li>
+<li>Feature 3</li>
+</ul>
+<hr>
+<h2 id="gallery">Gallery<a hidden class="anchor" aria-hidden="true" href="#gallery">#</a></h2>
+<p>Selected visualizations from various projects:</p>
+<p><img alt="Visualization 1" loading="lazy" src="vis1.png">
+<em>Caption for visualization 1</em></p>
+<p><img alt="Visualization 2" loading="lazy" src="vis2.png">
+<em>Caption for visualization 2</em></p>
+<p><img alt="Visualization 3" loading="lazy" src="vis3.png">
+<em>Caption for visualization 3</em></p>
+<hr>
+<h2 id="notebooks">Notebooks<a hidden class="anchor" aria-hidden="true" href="#notebooks">#</a></h2>
+<p>Jupyter notebooks and computational essays:</p>
+<ul>
+<li><strong>[Notebook Title 1]</strong> - Description <a href="link">[GitHub]</a> <a href="colab-link">[Colab]</a></li>
+<li><strong>[Notebook Title 2]</strong> - Description <a href="link">[GitHub]</a></li>
+<li><strong>[Notebook Title 3]</strong> - Description <a href="observable-link">[Observable]</a></li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Dulce van Vliet</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

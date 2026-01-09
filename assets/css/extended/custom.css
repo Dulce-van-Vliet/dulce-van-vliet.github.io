@@ -1,0 +1,103 @@
+/* Custom CSS for your Hugo Academic Site
+ * Place this file at: assets/css/extended/custom.css
+ */
+
+/* Example: Custom color scheme */
+:root {
+    /* Uncomment and customize these colors */
+    /* --primary: #4A90E2; */
+    /* --theme: #4A90E2; */
+    /* --entry: #f8f9fa; */
+    /* --code-bg: #f5f5f5; */
+}
+
+/* Example: Custom fonts */
+/*
+body {
+    font-family: 'Georgia', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+*/
+
+/* Example: Adjust spacing */
+/*
+.post-content {
+    line-height: 1.8;
+}
+
+.main {
+    padding: 20px;
+}
+*/
+
+/* Example: Publication styling */
+.post-content strong {
+    color: var(--primary);
+}
+
+/* Example: Highlight awards */
+/*
+.post-content strong:has(+ *:contains("Award")) {
+    background: linear-gradient(120deg, #ffc107 0%, #ff9800 100%);
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+*/
+
+/* Example: Better link styling */
+/*
+.post-content a {
+    border-bottom: 2px solid var(--primary);
+    text-decoration: none;
+    transition: border-color 0.2s;
+}
+
+.post-content a:hover {
+    border-color: var(--theme);
+}
+*/
+
+/* Example: Code block styling */
+/*
+.highlight {
+    border-left: 4px solid var(--primary);
+    padding-left: 16px;
+}
+*/
+
+/* Example: Profile image styling */
+/*
+.post-content img[alt*="Profile"] {
+    border-radius: 50%;
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+*/
+
+/* Example: Table styling for publications */
+/*
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.post-content table th,
+.post-content table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.post-content table th {
+    background-color: var(--entry);
+    font-weight: 600;
+}
+*/
+
+/* Add your custom styles below */
