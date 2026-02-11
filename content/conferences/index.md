@@ -5,33 +5,20 @@ draft: false
 description: "Conference presentations and invited talks"
 ---
 
-# Conference Presentations [invited speaker]
 
 ## 2025
 - **Oct. 2025 — RMeS Netherlands Media Studies Conference**
-  
-  *From Media History to Sustainability and Well‑Being*<br>
-
-  (https://www.rmes.nl/netherlands-media-studies-conference-organised-by-rmes/){ target="_blank" }
+  *From Media History to Sustainability and Well‑Being* [[Link]](https://www.rmes.nl/netherlands-media-studies-conference-organised-by-rmes/)
 
 - **Oct. 2025 — University of Luxembourg, Society for the History of Technology Annual Meeting**
-  
-  *Historical Data Streams and Measuring Sustainability*<br>
+  *Historical Data Streams and Measuring Sustainability* [[Link]](https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/)
 
-  (https://www.historyoftechnology.org/annual-meeting/2025-shot-annual-meeting/)
-
-- **July 2025 — Lund University, World Economic History Congress 2025** *(with Frank Veraart)*<br>
-
-  *Sustainability Trade‑Offs in the Netherlands Entangled Modernization @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens*<br>
-  
-  (https://wehc2025.com/)
+- **July 2025 — Lund University, World Economic History Congress 2025** *(with Frank Veraart)* 
+*Sustainability Trade‑Offs in the Netherlands Entangled Modernization @ Re‑assessing economic history from the perspective of well‑being, inclusion, and sustainability: A global, international, and transnational lens* [[Link]](https://wehc2025.com/)
   
 ## 2024
 - **Nov. 2024 — Scientific Instrument Commission Online Seminar 2024**
-  
-  *A tale of two objects: L. K. Maju (1823–1886) at Teylers Museum in the Netherlands*<br>
-  
-  (https://scientific-instrument-commission.org/event/online-seminar-day-2/)
+  *A tale of two objects: L. K. Maju (1823–1886) at Teylers Museum in the Netherlands* [[Link]](https://scientific-instrument-commission.org/event/online-seminar-day-2/)
 
 - **Nov. 2024 — Philipps‑Universität Marburg, Conference Cultural Heritage Data & Power** *(with Charlotte Bruns)*
   
