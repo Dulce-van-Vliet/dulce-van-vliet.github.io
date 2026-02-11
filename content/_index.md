@@ -6,7 +6,7 @@ draft: false
 
 # Hello,
 
-I'm Dulce van Vliet and I am an historian. 
+I'm Dulce van Vliet and I am an **historian**. 
 
 [[LinkedIn]](https://www.linkedin.com/in/dulcegoncalves/) | [[GoogleScholar]](https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl=en) | [[orcID]](https://orcid.org/0000-0002-5467-7610) | [[email]](mailto:d.m.van.vliet@tue.nl)
 
