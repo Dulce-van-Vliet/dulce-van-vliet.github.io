@@ -31,6 +31,24 @@ I have a PhD in media and cultural history from Utrecht University, where I inve
 
 **M.A. in Dramaturgy and Directing** - National School of Theater and Cinema, Lisbon, Portugal, 2013
 
+ [params.homeInfoParams]
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/dulcegoncalves/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:d.m.van.vliet@tue.nl"
+
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl"
+
+  [[params.socialIcons]]
+    name = "orcid"
+    url = "https://orcid.org/0000-0002-5467-7610"
+
 **B.A. in Design** - Aveiro University, Portugal, 2005
 
 
