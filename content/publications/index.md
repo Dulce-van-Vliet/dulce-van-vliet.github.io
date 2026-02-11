@@ -5,9 +5,9 @@ draft: false
 description: "Research publications and papers"
 ---
 
-### 2026
-
 ## Journal Articles & Book Chapters
+
+### 2026
 
 **Roots and dynamics of Dutch foreign plant-oil demands 1920–2020**  
 Frank Veraart, Maliene Kip, Janine Glas and *Dulce van Vliet*
