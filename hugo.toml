@@ -8,6 +8,7 @@ theme = 'PaperMod'
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
+  ShowSocialIcons = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = false
   ShowRssButtonInSectionTermList = false
