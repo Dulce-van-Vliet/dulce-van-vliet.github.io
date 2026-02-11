@@ -4,32 +4,35 @@ date: 2026-01-09
 draft: false
 ---
 
-# Hello,
+# Hi,
 
-I'm [Your Name], a researcher working on [Your Research Area] at [Your Institution].
+I'm Dulce van Vliet, a historian with broad interests and a background in media production. I am currently a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
 
-My research focuses on [brief description of your main research interests and what makes your work unique].
+My research focuses on historical sustainability trade-offs connected to the industrialization of the Netherlands. 
 
-## Recent Updates
+I have a PhD in media and cultural history from Utrecht University, where I investigated the role of the magic lantern in science popularization and knowledge dissemination.
 
-- **January 2026** - New paper accepted at [Conference Name]
-- **December 2025** - Released [Dataset/Tool Name]
-- **November 2025** - Presented at [Conference Name]
+## Research Interests
 
-## Research Highlights
+- (hi)stories of media, science and technology
+- cultural history
+- sustainability studies
+- digital humanities
 
-### [Project/Paper Title 1]
-Brief description of your most important work. What problem does it solve? What are the key contributions?
-[[Paper]](link) [[Code]](link)
+## Education
 
-### [Project/Paper Title 2]
-Another significant project or publication.
-[[Project Page]](link)
+**Ph.D. in Media History--Cultural History--History of Knowledge** - Utrecht University, 2024
+- Dissertation: "Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s"
+- Advisor: Prof. Dr. Frank Kessler
 
-### [Project/Paper Title 3]
-Third highlight with brief description.
-[[Demo]](link)
+**M.S. in [Field]** - [University Name], [Year]
 
----
+**B.S. in [Field]** - [University Name], [Year]
 
-*Last updated: January 2026*
+## Contact
+
+- Email: your.email@university.edu
+- Office: [Building, Room Number]
+- GitHub: [@yourusername](https://github.com/yourusername)
+
+*Last updated: February 2026*
