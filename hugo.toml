@@ -15,9 +15,7 @@ theme = 'PaperMod'
   ShowToc = false
   TocOpen = false
 
- # Show social icons in footer 
- ShowSocialIcons = true 
- # Social icons (footer) 
+
  socialIcons = [ { name = "linkedin", url = "https://www.linkedin.com/in/YOURNAME" }, 
  { name = "orcid", url = "https://orcid.org/0000-0000-0000-0000" }, 
  { name = "github", url = "https://github.com/YOURNAME" }, 
