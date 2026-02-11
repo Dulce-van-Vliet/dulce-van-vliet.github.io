@@ -9,7 +9,7 @@ description: "Research publications and papers"
 
 ### 2025
 
-**Title of Your Paper**  
+**test**  
 *Your Name*, Co-author Name  
 *Journal Name*, Vol. X, No. Y, pp. ZZ-ZZ, 2025  
 [[Paper]](link-to-paper.pdf) [[Code]](https://github.com/yourusername/project) [[BibTeX]](#bibtex-1)
