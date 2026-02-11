@@ -16,10 +16,11 @@ theme = 'PaperMod'
   TocOpen = false
 
 
- socialIcons = [ { name = "linkedin", url = "https://www.linkedin.com/in/YOURNAME" }, 
- { name = "orcid", url = "https://orcid.org/0000-0000-0000-0000" }, 
- { name = "github", url = "https://github.com/YOURNAME" }, 
- { name = "email", url = "mailto:you@example.com" }
+ socialIcons = [ { name = "linkedin", url = "https://www.linkedin.com/in/YOURNAME" },     
+   { name = "orcid", url = "https://orcid.org/0000-0000-0000-0000" }, 
+    { name = "github", url = "https://github.com/YOURNAME" }, 
+    { name = "email", url = "mailto:you@example.com" }
+  ]
 
 [menu]
   [[menu.main]]
