@@ -5,7 +5,7 @@ draft: false
 description: "Conference presentations and invited talks"
 ---
 
-# Conference Presentations
+# Conference Presentations [invited speaker]
 
 ## 2025
 - **Oct. 2025 — RMeS Netherlands Media Studies Conference**
