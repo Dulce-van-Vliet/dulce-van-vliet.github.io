@@ -40,27 +40,15 @@ description: "Conference presentations and invited talks"
 
 ## 2021
 - **Jan. 2021 — University of Lausanne, Conference Media Trades and Professions (18th to 21st Century)**
-  
-  *From Professor of Magic to Science Popularizer: Mapping the performances of L.K. Maju 1850–1886*<br>
-  
-  (https://catima.unil.ch/sphm2020/fr)
+- *From Professor of Magic to Science Popularizer: Mapping the performances of L.K. Maju 1850–1886* [[Link]](https://catima.unil.ch/sphm2020/fr)
 
 ## 2019
 - **Oct. 2019 — Aarhus University, Conference Multimodality: Illusion, Performance, Experience**
-  
-  *L. K. Maju (1823–1886): A Dutch Multimedia Entrepreneur*<br>
-  
-  (https://aias.au.dk/events/multimodality-illusion-performance-experience)
+- *L. K. Maju (1823–1886): A Dutch Multimedia Entrepreneur* [[Link]](https://aias.au.dk/events/multimodality-illusion-performance-experience)
 
 - **Mar. 2019 — Stichting Academisch Erfgoed (SAE), Conference Researcher Meets Curator** *(with J. Notebaard)*
-  
-  *A “biography‑oriented” approach to researching art history in academic and public illustrated lectures*<br>
-  
-  (https://www.academischerfgoed.nl/projecten/researcher-meets-curator/)
+- *A “biography‑oriented” approach to researching art history in academic and public illustrated lectures* [[Link]](https://www.academischerfgoed.nl/projecten/researcher-meets-curator/)
 
 ## 2018
 - **June 2018 — Universidade Lusófona, Conference Stereo and Immersive Media, Photography and Sound Research**
-  
-  *Dawson City: Frozen Time: Media Archaeology as Practice*
-  
-  -(http://stereoimmersivemedia2018.ulusofona.pt/)
+- *Dawson City: Frozen Time: Media Archaeology as Practice* [[Link]](http://stereoimmersivemedia2018.ulusofona.pt/)
