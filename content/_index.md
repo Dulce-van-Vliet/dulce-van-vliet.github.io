@@ -4,7 +4,7 @@ date: 2026-01-09
 draft: false
 ---
 
-# Hi,
+# Hello,
 
 I'm Dulce van Vliet, a historian with broad interests and a background in media production. I am currently a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
 
