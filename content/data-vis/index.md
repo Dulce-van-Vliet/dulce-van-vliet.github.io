@@ -21,13 +21,13 @@ description: "Datasets, visualizations, and interactive demos"
 ### Interactive Dashboards & Maps
 ---
 - **Dashboard Historical Trade Data: Dutch Imports Vegetable Oils & Fats, 1910–2023** (2025)  
-  [Tableau Public Data Dashboard]
+  [[Tableau Public Data Dashboard]](https://tinyurl.com/3p9c4b5a) 
 ---
 - **On the Trail of 19th Century Science Performers: The Case of L. K. Maju** (2020)  
-  [Web publication / SAGE Blog *Public Understanding of Science*]
+  [[Web publication / SAGE Blog *Public Understanding of Science*]] (https://sagepus.blogspot.com/2020/10/on-trail-of-19th-century-science.html)
 ---
 ### Historical Calendar
 - **Reconstructing a Historical Calendar: Haarlem and the Lantern Lecture Season** (2023)  
-  [Web publication / SAGE Blog *Public Understanding of Science*]
+  [[Web publication / SAGE Blog *Public Understanding of Science*]](https://sagepus.blogspot.com/2023/03/harlem-and-the-lantern-season.html)
 
 ---
