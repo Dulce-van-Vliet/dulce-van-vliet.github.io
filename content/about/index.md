@@ -5,6 +5,20 @@ draft: false
 description: "About me and my research"
 ---
 
-Dulce van Vliet is a historian with broad interests and a background in media production.
 
-She currently holds a postdoctoral position in the Technology, Innovation & Society group at Eindhoven University of Technology, where she investigates historical sustainability trade-offs connected to the industrialization of the Netherlands. She earned her PhD in media and cultural history at Utrecht University, where she investigated the role of the magic lantern in science popularization and knowledge dissemination in the Netherlands.
+## Research Interests
+
+- (hi)stories of media, science and technology
+- cultural history
+- sustainability studies
+- digital humanities
+
+## Education
+
+**Ph.D. in Media History--Cultural History--History of Knowledge** - Utrecht University, 2024
+- Dissertation: "Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s"
+- Advisor: Prof. Dr. Frank Kessler
+
+**M.S. in [Field]** - [University Name], [Year]
+
+**B.S. in [Field]** - [University Name], [Year]
