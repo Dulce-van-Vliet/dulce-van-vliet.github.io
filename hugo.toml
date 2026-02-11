@@ -6,21 +6,19 @@ theme = 'PaperMod'
 [params]
   description = "Academic research and publications"
   ShowReadingTime = false
-  ShowShareButtons = false
+  ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = false
-  ShowRssButtonInSectionTermList = true
+  ShowRssButtonInSectionTermList = false
   ShowToc = false
   TocOpen = false
 
   [params.homeInfoParams]
-    Title = "Hi"
-    Content = "Academic researcher focused on [History]"
 
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/yourusername"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/dulcegoncalves/"
 
   [[params.socialIcons]]
     name = "email"
@@ -28,7 +26,12 @@ theme = 'PaperMod'
 
   [[params.socialIcons]]
     name = "googlescholar"
-    url = "https://scholar.google.com/citations?user=YOUR_ID"
+    url = "https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl"
+
+  [[params.socialIcons]]
+    name = "orcid"
+    url = "https://orcid.org/0000-0002-5467-7610"
+    
 
 [menu]
   [[menu.main]]
