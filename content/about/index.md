@@ -5,7 +5,7 @@ draft: false
 description: "About me and my research"
 ---
 
-Dulce van Vliet is a historian with broad interests.
+Dulce van Vliet is a historian with broad interests and a background in media production.
 
 She currently holds a postdoctoral position in the Technology, Innovation & Society group at Eindhoven University of Technology, in the Netherlands.
 
