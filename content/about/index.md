@@ -18,9 +18,9 @@ She currently holds a postdoctoral position in the Technology, Innovation & Soci
 
 ## Education
 
-**Ph.D. in Media History/Cultural History/History of Knowledge]** - [Utrecht University], [2024]
-- Dissertation: "[Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s]"
-- Advisor: [Prof. Dr. Frank Kessler]
+**Ph.D. in Media History--Cultural History--History of Knowledge** - Utrecht University, 2024
+- Dissertation: "Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s"
+- Advisor: Prof. Dr. Frank Kessler
 
 **M.S. in [Field]** - [University Name], [Year]
 
