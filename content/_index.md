@@ -6,7 +6,7 @@ draft: false
 
 # Hello,
 
-I'm Dulce van Vliet, a historian with broad interests and a background in media production. I am currently a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.My research focuses on historical sustainability trade-offs connected to the industrialization of the Netherlands. 
+I'm Dulce van Vliet and I am an historian. 
 
 [[LinkedIn]](https://www.linkedin.com/in/dulcegoncalves/) | [[GoogleScholar]](https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl=en) | [[orcID]](https://orcid.org/0000-0002-5467-7610) | [[email]](mailto:d.m.van.vliet@tue.nl)
 
@@ -18,10 +18,13 @@ I'm Dulce van Vliet, a historian with broad interests and a background in media 
 - sustainability studies
 - digital humanities
 
-## Background
+## Academic Profile
 
-**Ph.D. in Media History--Cultural History--History of Knowledge** - Utrecht University, 2024
-- Dissertation: "Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s"
+**PostDoc History of Technology** - Eindhoven University of Technology, 2024-Present
+- Research Project: [[*Sustainability Trade-offs in the Netherlands’ Entangled Modernization*]](https://stonem.org/)
+
+**Ph.D. Cultural History of Media** - Utrecht University, 2024
+- Dissertation: [[*Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s*]](https://doi.org/10.33540/2213)
 - Advisor: Prof. Dr. Frank Kessler
 
 **M.A. in Media Studies: Film and Photographic Studies** *cum laude* - Leiden University, 2018
