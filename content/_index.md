@@ -8,6 +8,8 @@ draft: false
 
 I'm Dulce van Vliet, a historian with broad interests and a background in media production. I am currently a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.My research focuses on historical sustainability trade-offs connected to the industrialization of the Netherlands. 
 
+[[LinkedIn]](https://www.linkedin.com/in/dulcegoncalves/) | [[GoogleScholar]](https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl=en) | [[orcID]](https://orcid.org/0000-0002-5467-7610) | [[email]](mailto:d.m.van.vliet@tue.nl)
+
 
 ## Research Interests
 
