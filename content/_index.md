@@ -25,14 +25,13 @@ I have a PhD in media and cultural history from Utrecht University, where I inve
 - Dissertation: "Pleasant and Instructive Evenings: The Public Lantern Lecture Phenomenon in the Netherlands ca. 1900s-1920s"
 - Advisor: Prof. Dr. Frank Kessler
 
-**M.S. in [Field]** - [University Name], [Year]
+**M.A. in Media Studies: Film and Photographic Studies** *cum laude* - Leiden University, 2018
 
-**B.S. in [Field]** - [University Name], [Year]
+**pre-M.A. in Art History** - Leiden University, 2016
 
-## Contact
+**M.A. in Dramaturgy and Directing** - National School of Theater and Cinema, Lisbon, Portugal, 2013
 
-- Email: your.email@university.edu
-- Office: [Building, Room Number]
-- GitHub: [@yourusername](https://github.com/yourusername)
+**B.A. in Design** - Aveiro University, Portugal, 2005
+
 
 *Last updated: February 2026*
