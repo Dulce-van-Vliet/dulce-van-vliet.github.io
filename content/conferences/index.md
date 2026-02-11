@@ -12,7 +12,7 @@ description: "Conference presentations and invited talks"
   
   *From Media History to Sustainability and Well‑Being*<br>
 
-  (https://www.rmes.nl/netherlands-media-studies-conference-organised-by-rmes/)
+  (https://www.rmes.nl/netherlands-media-studies-conference-organised-by-rmes/){ target="_blank" }
 
 - **Oct. 2025 — University of Luxembourg, Society for the History of Technology Annual Meeting**
   
