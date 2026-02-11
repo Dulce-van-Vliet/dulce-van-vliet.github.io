@@ -5,12 +5,11 @@ theme = 'PaperMod'
 
 [params]
   description = "Academic research and publications"
-  author = "Dulce van Vliet"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
+  ShowCodeCopyButtons = false
   ShowRssButtonInSectionTermList = true
   ShowToc = false
   TocOpen = false
