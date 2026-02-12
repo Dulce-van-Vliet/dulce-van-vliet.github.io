@@ -4,12 +4,13 @@ date: 2026-01-09
 draft: false
 ---
 
-<img src="/images/Dulce.gif" alt="Dulce van Vliet" width="300" style="float: right; margin-left: 20px;">
+<img src="/images/Dulce.gif" alt="Dulce van Vliet" width="350" style="float: right; margin-left: 20px;">
 
 
-# Hi,
+# <hello!>
 
-I'm Dulce van Vliet and I am an **historian**. 
+
+I am a historian interested in the cultural dimensions of media, science, and technology. I earned my PhD at Utrecht University as part of the research project Projecting Knowledge, where I produced the first large-scale survey of public lantern lectures in Dutch society from the late nineteenth century to the Second World War. I currently hold a postdoctoral position in the Technology, Innovation & Society group at Eindhoven University of Technology, where I investigate historical sustainability trade-offs connected to the industrialization of the Netherlands.
 
 [[LinkedIn]](https://www.linkedin.com/in/dulcegoncalves/) | [[GoogleScholar]](https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl=en) | [[orcID]](https://orcid.org/0000-0002-5467-7610) | [[email]](mailto:d.m.van.vliet@tue.nl)
 
