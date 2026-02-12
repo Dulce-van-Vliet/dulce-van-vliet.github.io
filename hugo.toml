@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Dulce van Vliet'
 theme = 'PaperMod'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
   description = "Academic research and publications"
   ShowReadingTime = false
