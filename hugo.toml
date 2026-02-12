@@ -14,6 +14,15 @@ theme = 'PaperMod'
   ShowToc = false
   TocOpen = false
 
+  [params.profileMode]
+    enabled = true
+    title = "Dulce van Vliet"
+    subtitle = "A short bio or tagline"
+    imageUrl = "/images/Dulce.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "my profile picture"
+
 
 [menu]
   [[menu.main]]
