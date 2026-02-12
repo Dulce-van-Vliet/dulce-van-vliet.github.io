@@ -4,7 +4,9 @@ date: 2026-01-09
 draft: false
 ---
 
-![Alt text](static/images/Dulce.jpg)
+<p align="center">
+  <img src="/images/Dulce.jpg" alt="Dulce van Vliet" width="200">
+</p>
 
 # Hello,
 
