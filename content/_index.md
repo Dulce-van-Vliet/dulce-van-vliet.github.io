@@ -4,9 +4,8 @@ date: 2026-01-09
 draft: false
 ---
 
-<p align="right">
-  <img src="/images/Dulce.gif" alt="Dulce van Vliet" width="300">
-</p>
+<img src="/images/Dulce.gif" alt="Dulce van Vliet" width="200" style="float: right; margin-left: 20px;">
+
 
 # Hello,
 
