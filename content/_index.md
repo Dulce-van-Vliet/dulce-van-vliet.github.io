@@ -4,10 +4,10 @@ date: 2026-01-09
 draft: false
 ---
 
-<img src="/images/Dulce.gif" alt="Dulce van Vliet" width="200" style="float: right; margin-left: 20px;">
+<img src="/images/Dulce.gif" alt="Dulce van Vliet" width="300" style="float: right; margin-left: 20px;">
 
 
-# Hello,
+# Hi,
 
 I'm Dulce van Vliet and I am an **historian**. 
 
