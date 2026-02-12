@@ -10,7 +10,7 @@ draft: false
 ## hello!
 
 
-I am a historian interested in the cultural dimensions of media, science, and technology, from anaglygh stereoscopy and magic lanterns to the history of the large sociotechnical systems that shape our lives today. I currently work as a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
+I am a historian interested in the cultural dimensions of media, science, and technology--from anaglyph stereoscopic 3D and magic lanterns to the history of the large sociotechnical systems that shape our lives today. I currently work as a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
 
 [[LinkedIn]](https://www.linkedin.com/in/dulcegoncalves/) | [[GoogleScholar]](https://scholar.google.com/citations?user=sJUJJUYAAAAJ&hl=en) | [[orcID]](https://orcid.org/0000-0002-5467-7610) | [[email]](mailto:d.m.van.vliet@tue.nl)
 
