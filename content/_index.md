@@ -10,7 +10,7 @@ draft: false
 ## hello!
 
 
-I am a historian interested in the cultural dimensions of media, science, and technology--from anaglyph stereoscopic 3D and magic lanterns to the history of the large sociotechnical systems that shape our lives today. I currently work as a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
+My name is Dulce van Vliet and I am a historian. I am interested in the cultural dimensions of media, science, and technology: from anaglyph stereoscopic 3D and magic lanterns to the history of the large sociotechnical systems that shape our lives today. I currently work as a postdoc researcher in the Technology, Innovation & Society group at Eindhoven University of Technology.
 
 
 ---
