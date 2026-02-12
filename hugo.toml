@@ -19,6 +19,7 @@ theme = 'PaperMod'
   ShowRssButtonInSectionTermList = false
   ShowToc = false
   TocOpen = false
+  hideMeta = true
 
 
 
