@@ -4,6 +4,8 @@ date: 2026-01-09
 draft: false
 ---
 
+![Alt text](/images/Dulce.jpg)
+
 # Hello,
 
 I'm Dulce van Vliet and I am an **historian**. 
